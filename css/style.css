@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Anton", sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 35px;
+    font-family: "Yatra One", system-ui;
+}
+
+#Home .QuoteBtn {
+    transition: all 1s !important;
+    background-color: rgb(29, 29, 150);
+    color: white;
+}
+
+#Home .QuoteBtn:hover {
+    background-color: green !important;
+}
